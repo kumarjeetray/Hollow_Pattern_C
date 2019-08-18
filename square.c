@@ -10,7 +10,6 @@ void main()
         {
             if(i==1||j==s||i==s||j==1)
             {
-                printf(" ");
                 printf("*");
             }
             else
