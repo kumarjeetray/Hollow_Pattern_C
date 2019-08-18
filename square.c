@@ -1,4 +1,4 @@
-#include<stdio.h>
+/* It accept the side of the square from the user #include<stdio.h>
 void main()
 {
     int s;
