@@ -1,4 +1,4 @@
-#include<stdio.h>
+/* It #include<stdio.h>
 void main()
 {
     int s,l;
