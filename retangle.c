@@ -1,4 +1,4 @@
-/* It prints the hollow #include<stdio.h>
+/* It prints the hollow rectangle #include<stdio.h>
 void main()
 {
     int s,l;
