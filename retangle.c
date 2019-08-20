@@ -1,4 +1,5 @@
-/* It prints the hollow rectangle based on the length nad breadth given the user #include<stdio.h>
+/* It prints the hollow rectangle based on the length nad breadth given the user */
+#include<stdio.h>
 void main()
 {
     int s,l;
