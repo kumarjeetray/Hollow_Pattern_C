@@ -1,4 +1,5 @@
-/* To print a hollow pyramid with * 
+/* 
+To print a hollow pyramid with * 
 */ 
 #include<stdio.h>
 void main()
