@@ -1,5 +1,5 @@
 /* 
-To print a hollow pyramid with * 
+To print a hollow pyramid with * to print only the boundary
 */ 
 #include<stdio.h>
 void main()
